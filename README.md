@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedrocbrandao 👋
+### Olá! Eu sou o Pedro 👋
 
 - 🔭 No momento estou fazendo Bacharelado em Ciencias da computação.
 - 🌱 Estudando Desenvolvimento Web.
