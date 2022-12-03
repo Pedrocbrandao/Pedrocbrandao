@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro 👋
 
-- 🔭 No momento estou fazendo Bacharelado em Ciencias da computação.
+- 🔭 No momento estou fazendo Analise e desenvolvimento de sistemas.
 - 🌱 Estudando Desenvolvimento Web.
 
 <div align="center">
