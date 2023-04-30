@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 🔭 No momento estou fazendo Analise e desenvolvimento de sistemas.
-- 🌱 Estudando Desenvolvimento Web.
+- 🌱 Sempre buscando aprimoramento!
 
 <div align="center">
   <a href="https://github.com/Pedrocbrandao">
