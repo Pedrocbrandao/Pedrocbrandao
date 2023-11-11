@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="[https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png](https://apexensino.com.br/wp-content/uploads/2020/05/26-java-logo.jpg)">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
