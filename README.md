@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=745c8c&height=120&section=header"/><div align = "center">
 <img src="https://github.com/user-attachments/assets/cb850b40-bb9a-423e-aa52-ef00a4876d8d"/>
 </div>
 <br>
@@ -18,3 +17,8 @@
 <a href="https://instagram.com/._pedrobrandao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.pedro.brandao114@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+
+  <img
+    height="140em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul0jr&layout=compact&langs_count=7&theme=material-palenight"
+  />
